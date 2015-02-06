@@ -360,15 +360,15 @@ code, kbd, pre, samp {
   font-size: 14px; }
 
 blockquote {
-  background: #f4645f;
-  color: #fff;
+  color: #7A7A7A;
   border-radius: 3px;
-  margin: 10px 0 20px;
-  padding: 10px 15px; }
+  margin: 24px 0px 24px;
+  padding: 28px 43px;
+  border: 2px solid #F4645F; }
   blockquote p:last-child {
     margin: 0; }
   blockquote a {
-    color: #fff; }
+    color: #F4645F; }
 
 .btn {
   display: inline-block;
